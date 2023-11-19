@@ -31,7 +31,7 @@ global.location = "Indonesia" //ur location
 //new
 global.botname = "Louise BOT"
 global.ownernumber = '6281315379437'
-global.ownername = '🦄드림 가이 Xeon'
+global.ownername = 'Aditya Bagaskara'
 global.ownerNumber = ["6281315379437@s.whatsapp.net"]
 global.ownerweb = "https://youtube.com/WoodyID"
 global.websitex = "https://youtube.com"
