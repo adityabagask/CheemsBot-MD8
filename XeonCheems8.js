@@ -1527,7 +1527,6 @@ case 'alive': case 'panel': case 'list': case 'menu': case 'help': case '?': {
 │❏.textpromenu
 │❏.ephoto360menu
 │❏.animemenu
-│❏.nsfwmenu
 │❏.randomphotomenu
 │❏.randomvideomenu
 │❏.stickermenu
